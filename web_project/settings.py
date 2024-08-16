@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-945@25v7%l2b68n$rtu^fzjf(h0q(i4qo8f8xhdcf#i05&&2k0
 DEBUG = True
 
 #ALLOWED_HOSTS = ['*']
-ALLOWED_HOSTS = ['django-u20800.vm.elestio.app']
+ALLOWED_HOSTS = ['65.21.50.131']
 
 # Application definition
 
