@@ -5,14 +5,14 @@ config:
   installCommand: "pip install -r requirements.txt"
   buildCommand: " "
   buildDir: "./"
-  runCommand: "python manage.py runserver 8004"
+  runCommand: "python manage.py runserver 9436"
   icon: "myapp/images/icon.svg"
   screenshot: "myapp/images/django.png"
 ports:
   - protocol: "HTTPS"
     targetProtocol: "HTTP"
-    listeningPort: "8000"
-    targetPort: "8000"
+    listeningPort: "9436"
+    targetPort: "9436"
     public: true
     path: "/"
     isAuth: false
@@ -20,8 +20,8 @@ ports:
     password: ""
 exposedPorts:
   - protocol: "HTTP"
-    hostPort: "8000"
-    containerPort: "8000"
+    hostPort: "9436"
+    containerPort: "9436"
     interface: "172.17.0.1"
 webUI:
   - url: "https://django-u20800.vm.elestio.app"
