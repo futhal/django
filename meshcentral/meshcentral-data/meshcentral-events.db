@@ -1,0 +1,5 @@
+{"etype":"server","action":"started","msg":"Server started","time":{"$$date":1724095130238},"ids":["*"],"_id":"crG3XvaBWsPyZqi6"}
+{"$$indexCreated":{"fieldName":"ids","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"nodeid","unique":false,"sparse":true}}
+{"$$indexCreated":{"fieldName":"time","unique":false,"sparse":false}}
+{"etype":"server","action":"started","msg":"Server started","time":{"$$date":1724095152316},"ids":["*"],"_id":"UFmZVwuME2eiJOIg"}
