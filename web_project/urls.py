@@ -15,7 +15,10 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from myapp.views import meshcentral_view
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('meshcentral/', meshcentral_view, name='meshcentral'),
+
 ]
