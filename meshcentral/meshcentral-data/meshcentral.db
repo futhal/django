@@ -3,6 +3,7 @@
 {"_id":"LoginCookieEncryptionKey","key":"7793d1e13e0749965405ba2422cff8d5c10b03261c24f3f2def195129754723008003c3af08c13bdd6282920b1814ba157316a90953e0db3c782a94ef57c2e1a6e9bcee3b2fe4ae89e7106b99d652548","time":1724095130244}
 {"_id":"SchemaVersion","value":2}
 {"_id":"dbconfig","version":1,"amtWsEventSecret":"23a4831be7b658901b5586934c101d6d2e93ac5000e50d58a2d74b1503be20f3"}
+{"type":"user","_id":"user//root","name":"root","email":"fy771244264fy@gmail.com","creation":1724097956,"login":1724097956,"access":1724098261,"domain":"","siteadmin":4294967295,"salt":"P0Wt1abwVynFnzik1x8DYn7/B+1uuYu02w3oMkX0T87zONPHDVmuOU7anfDWb4pBYedog2Gi1tkUO/p0fPos9K03zQ1ymO2bFIamIAK+UDt9m//6+FxNfPKdo8Zgt+4ympfKJv3xNPF8XcwgpZ1CAaawdQoksiEzjqHODjzRykc=","hash":"gik8dL5Xr32Zb/SjIG+a9nOMKSkRLtpkRt+VaHrWAnleB8Eo+XE7jObAcMxAzRzG8ARyAExJxLt/t8N/VetH5v3s9QzjuGywxs615TWcUbaesPzcsVd/75GgQb3mhfDh+uQ0mncxtrfYWZLYcr3uUsgCPv2Gpn57GukCuaSk7mw="}
 {"$$indexCreated":{"fieldName":"type","unique":false,"sparse":false}}
 {"$$indexCreated":{"fieldName":"domain","unique":false,"sparse":false}}
 {"$$indexCreated":{"fieldName":"meshid","unique":false,"sparse":true}}
