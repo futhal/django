@@ -1,7 +1,7 @@
-time=1724095152355
-state=running
-server-pid=7163
-server-parent-pid=7152
+time=1724096897852
+state=stopped
+server-pid=20088
+server-parent-pid=20077
 redirect-port=80
 mps-port=4433
 mps-name=un-configured

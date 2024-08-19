@@ -1,4 +1,10 @@
+{"time":{"$$date":1724096533870},"nodeid":"*","power":0,"s":1,"_id":"OQg4nUerQGNn3VC0"}
+{"time":{"$$date":1724096469502},"nodeid":"*","power":0,"s":1,"_id":"PboQSV3cxKXJ0ifH"}
 {"time":{"$$date":1724095120779},"nodeid":"*","power":0,"s":1,"_id":"YMZM5RTzxpIa07ZG"}
+{"time":{"$$date":1724095149467},"nodeid":"*","power":0,"s":1,"_id":"cBdRXGZTVOkeav69"}
+{"time":{"$$date":1724096499860},"nodeid":"*","power":0,"s":1,"_id":"dvQrXolrVe8mI1xb"}
+{"time":{"$$date":1724096443373},"nodeid":"*","power":0,"s":1,"_id":"oy9OWM79yN8U2oid"}
+{"time":{"$$date":1724096592050},"nodeid":"*","power":0,"s":1,"_id":"pLDqIekJp5NDFbVP"}
 {"$$indexCreated":{"fieldName":"nodeid","unique":false,"sparse":false}}
 {"$$indexCreated":{"fieldName":"time","unique":false,"sparse":false}}
-{"time":{"$$date":1724095149467},"nodeid":"*","power":0,"s":1,"_id":"cBdRXGZTVOkeav69"}
+{"time":{"$$date":1724096734566},"nodeid":"*","power":0,"s":1,"_id":"hjMhSz4cnspkYXso"}
