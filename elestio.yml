@@ -26,3 +26,4 @@ exposedPorts:
 webUI:
   - url: "https://django-u20800.vm.elestio.app"
     label: "Website"    
+
