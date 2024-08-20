@@ -11,8 +11,8 @@ config:
 ports:
   - protocol: "HTTPS"
     targetProtocol: "HTTP"
-    listeningPort: "8000"
-    targetPort: "8000"
+    listeningPort: "443"
+    targetPort: "443"
     public: true
     path: "/"
     isAuth: false
