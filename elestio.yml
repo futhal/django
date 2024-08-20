@@ -11,8 +11,8 @@ config:
 ports:
   - protocol: "HTTPS"
     targetProtocol: "HTTP"
-    listeningPort: "443"
-    targetPort: "443"
+    listeningPort: "8000"
+    targetPort: "8000"
     public: true
     path: "/"
     isAuth: false
@@ -20,8 +20,8 @@ ports:
     password: ""
 exposedPorts:
   - protocol: "HTTP"
-    hostPort: "8000"
-    containerPort: "8000"
+    hostPort: "9000"
+    containerPort: "9000"
     interface: "172.17.0.1"
 webUI:
   - url: "https://django-u20800.vm.elestio.app"
