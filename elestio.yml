@@ -3,9 +3,9 @@ config:
   version: ""
   framework: "Django"
   installCommand: "pip install -r requirements.txt"
-  buildCommand: "apt-get update && apt-get install -y nodejs npm"
+  buildCommand: " "
   buildDir: "./"
-  runCommand: "python manage.py runserver && node meshcentral/node_modules/meshcentral/"
+  runCommand: "python manage.py runserver"
   icon: "myapp/images/icon.svg"
   screenshot: "myapp/images/django.png"
 ports:
